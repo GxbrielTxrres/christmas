@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gingerbread House
+* source:	https://sketchfab.com/3d-models/gingerbread-house-d0089ae4fedf436989c4658886b5361a
+* author:	tylerphotos (https://sketchfab.com/tylerphotos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gingerbread House" (https://sketchfab.com/3d-models/gingerbread-house-d0089ae4fedf436989c4658886b5361a) by tylerphotos (https://sketchfab.com/tylerphotos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
